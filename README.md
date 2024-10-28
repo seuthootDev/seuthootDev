@@ -26,7 +26,7 @@
 <div>
     <img src="https://img.shields.io/badge/VTK-3776AB?style=for-the-badge&logo=data:image/png;base64,[BASE64_ENCODED_IMAGE]&logoColor=white"> 
     <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=data:image/png;base64,[BASE64_ENCODED_IMAGE]&logoColor=white"> 
-</div>
+</div><br>
 
 <!-- Operating System -->
 <p><strong>Operating System</strong></p>
