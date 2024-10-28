@@ -18,7 +18,7 @@
     <p><strong>Database</strong></p>
     <div> 
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-        <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mysql&logoColor=white"> 
+        <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> 
     </div>
   
     <!-- GUI Framework -->
@@ -30,9 +30,9 @@
 
     <!-- Operating System -->
     <p><strong>Operating System </strong></p>
-<div>
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-</div>
+    <div>
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    </div>
 
     <!-- Communicate -->
     <p><strong>Communicate</strong></p>
@@ -41,6 +41,7 @@
     </div>
     <br>
 </div>
+
 
 
 
