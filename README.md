@@ -14,6 +14,12 @@
     <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white">
 </div><br>
 
+<!-- Backend -->
+<p><strong>Frontend</strong></p>
+<div>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</div><br>
+
 <!-- Database -->
 <p><strong>Database</strong></p>
 <div> 
