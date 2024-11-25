@@ -1,6 +1,4 @@
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{seuthootDev}"/>
-</a>
+
 
 
 ## ✏️ Skills ✏️
@@ -59,3 +57,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seunghoon-jung-38b270335/)](https://www.linkedin.com/in/seunghoon-jung-38b270335/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/seuthoot/)](https://www.instagram.com/seuthoot/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:seuthootdev@gmail.com)](mailto:seuthootdev@gmail.com)
+
+---------------------------------------------------------------------------------------------
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{seuthootDev}"/>
+</a>
