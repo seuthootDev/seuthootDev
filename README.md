@@ -1,4 +1,5 @@
 
+![AWS Certified Cloud Practitioner](welcome.gif)
 
 
 ## ✏️ Skills ✏️
