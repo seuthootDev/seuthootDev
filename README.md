@@ -49,9 +49,9 @@
 
 ![Seunghoon Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuthootDev&show_icons=true&theme=transparent) | ![Seunghoon Jung GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=seuthootDev&layout=compact&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true&langs_count=8) 
 
-
+<!--
 [![Check out seuthootDev's profile on stardev.io](https://stardev.io/developers/seuthootDev/badge/languages/locality.svg)](https://stardev.io/developers/seuthootDev)
-
+-->
 
 
 ## ☎️ Contact ☎️
