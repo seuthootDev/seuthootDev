@@ -1,4 +1,4 @@
-![](/glitch)
+![](welcome.gif)
 <br>
 ## ✏️ Skills ✏️
 
