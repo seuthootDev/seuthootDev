@@ -1,4 +1,4 @@
-![](welcome.gif)
+<img src="welcome.gif" alt="설명" width="500" height="300">
 <br>
 ## ✏️ Skills ✏️
 
