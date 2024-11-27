@@ -1,4 +1,5 @@
-
+![](/glitch)
+<br>
 ## ✏️ Skills ✏️
 
 <!-- Frontend -->
