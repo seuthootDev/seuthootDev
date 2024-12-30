@@ -52,7 +52,7 @@
 [![Check out seuthootDev's profile on stardev.io](https://stardev.io/developers/seuthootDev/badge/languages/locality.svg)](https://stardev.io/developers/seuthootDev)
 -->
 
-<img src="images/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect – Associate" width="150" /> 
+<img src="images/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect – Associate" width="150" /> |
 
 <img src="images/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="150" />
 
