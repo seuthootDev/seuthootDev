@@ -51,6 +51,12 @@
 <!--
 [![Check out seuthootDev's profile on stardev.io](https://stardev.io/developers/seuthootDev/badge/languages/locality.svg)](https://stardev.io/developers/seuthootDev)
 -->
+![Your Credly Badge](images/aws-certified-solutions-architect-associate.png)
+
+![Your Credly Badge](images/aws-certified-cloud-practitioner.png)
+
+
+
 
 
 ## ☎️ Contact ☎️
