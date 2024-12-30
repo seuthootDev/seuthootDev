@@ -47,7 +47,7 @@
 
 <p><strong>Certifications</strong></p>
 
-![AWS Certified Solutions Architect – Associate](https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Solutions-Architect-Associate_512x512.png)
+![AWS Certified Solutions Architect – Associate]([https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Solutions-Architect-Associate_512x512.png](https://www.credly.com/badges/6096199d-3887-4f7f-bf57-02f8ff2da2f2/public_url))
 
 ![AWS Certified Cloud Practitioner](https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Cloud-Practitioner_512x512.png)
 
