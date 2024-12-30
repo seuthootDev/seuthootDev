@@ -52,11 +52,6 @@
 [![Check out seuthootDev's profile on stardev.io](https://stardev.io/developers/seuthootDev/badge/languages/locality.svg)](https://stardev.io/developers/seuthootDev)
 -->
 
-![Your Credly Badge](images/aws-certified-solutions-architect-associate.png) | ![Your Credly Badge](images/aws-certified-cloud-practitioner.png)
-
-
-
-
 
 ## ☎️ Contact ☎️
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seunghoon-jung-38b270335/)](https://www.linkedin.com/in/seunghoon-jung-38b270335/)
