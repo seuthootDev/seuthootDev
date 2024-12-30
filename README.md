@@ -45,6 +45,11 @@
 </div>
 <br>
 
+<p><strong>Certifications</strong></p>
+![AWS Certified Solutions Architect – Associate](https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Solutions-Architect-Associate_512x512.png)
+![AWS Certified Cloud Practitioner](https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Cloud-Practitioner_512x512.png)
+
+
 
 ![Seunghoon Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuthootDev&show_icons=true&theme=transparent) | ![Seunghoon Jung GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=seuthootDev&layout=compact&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true&langs_count=8) 
 
