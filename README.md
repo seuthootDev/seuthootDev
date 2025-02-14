@@ -52,7 +52,7 @@
 <!-- Cloud -->
 <p><strong>Cloud</strong></p>
 <div>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900">
 </div>
 <br>
 
