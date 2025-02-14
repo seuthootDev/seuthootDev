@@ -17,8 +17,8 @@
 <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/static/v1?label=Camunda&message=BPMN&color=EE0000&style=for-the-badge">
-    <img src="https://img.shields.io/badge/Camunda-EE0000?style=for-the-badge&logoColor=white">
 </div><br>
 
 <!-- Database -->
