@@ -34,10 +34,9 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900">
-        [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
     </div><br>
 </div>
-
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
 
 ![Seunghoon Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuthootDev&show_icons=true&theme=transparent) | ![Seunghoon Jung GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seuthootdev&layout=compact&langs_count=8)
 
