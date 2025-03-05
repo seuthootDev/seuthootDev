@@ -21,40 +21,38 @@
     <img src="https://img.shields.io/static/v1?label=Camunda&message=BPMN&color=EE0000&style=for-the-badge">
 </div><br>
 
-<!-- Database -->
-<p><strong>Database</strong></p>
-<div> 
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-    <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> 
-</div><br>
-
-<!-- GUI Framework -->
-<p><strong>Libraries / GUI Framework</strong></p>
+<!-- Tools & Other -->
+<p><strong>Tools & Other</strong></p>
 <div>
-    <img src="https://img.shields.io/badge/VTK-3776AB?style=for-the-badge&logo=data:image/png;base64,[BASE64_ENCODED_IMAGE]&logoColor=white"> 
-    <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=data:image/png;base64,[BASE64_ENCODED_IMAGE]&logoColor=white"> 
-</div><br>
+    <p><strong>Database</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+        <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> 
+    </div><br>
 
-<!-- Operating System -->
-<p><strong>Operating System</strong></p>
-<div>
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-</div><br>
+    <p><strong>Libraries / GUI Framework</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/VTK-3776AB?style=for-the-badge&logo=data:image/png;base64,[BASE64_ENCODED_IMAGE]&logoColor=white"> 
+        <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=data:image/png;base64,[BASE64_ENCODED_IMAGE]&logoColor=white"> 
+    </div><br>
 
-<!-- Communicate -->
-<p><strong>Communicate</strong></p>
-<div>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
+    <p><strong>Operating System</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    </div><br>
+
+    <p><strong>Communicate</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
+    </div><br>
+
+    <p><strong>Cloud</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900">
+    </div><br>
 </div>
-<br>
 
-<!-- Cloud -->
-<p><strong>Cloud</strong></p>
-<div>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900">
-</div>
-<br>
 
 ![Seunghoon Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuthootDev&show_icons=true&theme=transparent) | ![Seunghoon Jung GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seuthootdev&layout=compact&langs_count=8)
 
