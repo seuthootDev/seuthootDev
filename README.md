@@ -39,9 +39,8 @@
 
 
 ## ☎️ Contact ☎️
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seunghoon-jung-38b270335/)](https://www.linkedin.com/in/seunghoon-jung-38b270335/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/seuthoot/)](https://www.instagram.com/seuthoot/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:seuthootdev@gmail.com)](mailto:seuthootdev@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/seunghoon-jung-38b270335/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:seuthootdev@gmail.com)
 
 ---------------------------------------------------------------------------------------------
 <a href="https://github.com/devxb/gitanimals">
