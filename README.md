@@ -32,7 +32,7 @@
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
-![Seunghoon Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuthootDev&show_icons=true&theme=transparent) | ![Seunghoon Jung GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seuthootdev&layout=compact&langs_count=8)
+![Seunghoon Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuthootDev&show_icons=true&theme=transparent) | ![Seunghoon Jung GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seuthootdev&layout=compact&langs_count=10)
 
 
 <!--
