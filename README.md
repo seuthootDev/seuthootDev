@@ -1,4 +1,4 @@
-<img src="welcome.gif" alt="설명" width="600" height="350">
+![이미지](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=seuthootDev's%20GitHub&fontColor=475569)
 <br>
 
 ## ✏️ Skills ✏️
