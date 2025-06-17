@@ -15,7 +15,8 @@
       <td style="border: none;">
         <div><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" /></div>
 <!--         <div><img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=black" /></div> -->
-        <div><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" /></div>
+<!--         <div><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" /></div> -->
+        <div><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /></div>
         <div><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /></div>
         <div><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" /></div>
       </td>
@@ -23,7 +24,6 @@
         <div><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /></div>
         <div><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" /></div>
         <div><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /></div>
-        <div><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /></div>
       </td>
       <td style="border: none;">
         <div><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" /></div>
