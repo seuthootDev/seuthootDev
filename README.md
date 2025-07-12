@@ -21,9 +21,9 @@
 <!--         <div><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" /></div> -->
       </td>
       <td style="border: none;">
-        <div><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /></div>
         <div><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" /></div>
         <div><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /></div>
+        <div><img src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white" /></div> 
       </td>
       <td style="border: none;">
         <div><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" /></div>
