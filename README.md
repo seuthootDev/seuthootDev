@@ -39,12 +39,7 @@
 
 
 
-![Seunghoon Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuthootDev&show_icons=true&theme=transparent) | ![Seunghoon Jung GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seuthootdev&layout=compact&langs_count=10)
-
-
-[![Check out seuthootDev's profile on stardev.io](https://stardev.io/developers/seuthootDev/badge/languages/locality.svg)](https://stardev.io/developers/seuthootDev)
-
-
+<!-- ![Seunghoon Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuthootDev&show_icons=true&theme=transparent) | ![Seunghoon Jung GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seuthootdev&layout=compact&langs_count=10) -->
 
 
 
@@ -52,9 +47,3 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/seuthootDev"/>
 </a>
-
-<!-- 
-### ☎️ Contact ☎️
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/seunghoon-jung-38b270335/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:seuthootdev@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Available-blue)](https://resume-jungseunghoon.vercel.app/)-->
