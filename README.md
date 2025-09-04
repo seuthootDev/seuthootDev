@@ -1,4 +1,4 @@
-![이미지](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=seuthootDev's%20GitHub&fontColor=c16ff6)
+![이미지](https://capsule-render.vercel.app/api?type=blur&height=230&color=gradient&text=seuthootDev's%20GitHub&fontColor=c16ff6)
 <br>
 <h2>🛠️ Tech Stack</h2>
 <table style="border: none;">
