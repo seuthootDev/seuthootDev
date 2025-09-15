@@ -53,4 +53,5 @@
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_brown.svg" />
 </a><br>
 
-![이미지](images/항해 플러스 수료 인증서.png)
+![항해 플러스 수료 인증서](%ED%95%AD%ED%95%B4%20%ED%94%8C%EB%9F%AC%EC%8A%A4%20%EC%88%98%EB%A3%8C%20%EC%9D%B8%EC%A6%9D%EC%84%9C.png)
+
