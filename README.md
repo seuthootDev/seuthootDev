@@ -46,8 +46,9 @@
 
 ---------------------------------------------------------------------------------------------
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/seuthootDev"/>
+  <img src="https://render.gitanimals.org/farms/seuthootDev?background=forest"/>
 </a>
+
 
 <h2>BootCamp</h2>
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
