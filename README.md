@@ -49,9 +49,7 @@
   <img src="https://render.gitanimals.org/farms/seuthootDev"/>
 </a>
 
+<h2>BootCamp</h2>
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_brown.svg" />
 </a><br>
-
-![항해 플러스 수료 인증서](%ED%95%AD%ED%95%B4%20%ED%94%8C%EB%9F%AC%EC%8A%A4%20%EC%88%98%EB%A3%8C%20%EC%9D%B8%EC%A6%9D%EC%84%9C.png)
-
