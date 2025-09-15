@@ -38,6 +38,12 @@
   </tbody>
 </table>
 
+<h2>BootCamp</h2>
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_brown.svg" />
+</a><br>
+
+
 
 
 <!-- ![Seunghoon Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuthootDev&show_icons=true&theme=transparent) | ![Seunghoon Jung GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seuthootdev&layout=compact&langs_count=10) -->
@@ -48,9 +54,3 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/seuthootDev?background=forest"/>
 </a>
-
-
-<h2>BootCamp</h2>
-<a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_brown.svg" />
-</a><br>
