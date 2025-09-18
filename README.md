@@ -9,6 +9,7 @@
       <th style="border: none; text-align: left;">🔧 Backend</th>
       <th style="border: none; text-align: left;">🗄️ Database</th>
       <th style="border: none; text-align: left;">🛠️ Tools & DevOps</th>
+      <th style="border: none; text-align: left;">🎓 BootCamp</th>
     </tr>
   </thead>
   <tbody>
@@ -34,15 +35,12 @@
         <div><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white" /></div>
         <div><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" /></div>
       </td>
+       <td style="border: none;">
+        <div><img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_brown.svg" /></div>
+      </td>
     </tr>
   </tbody>
 </table>
-
-<h2>BootCamp</h2>
-<a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_brown.svg" />
-</a><br>
-
 
 
 
