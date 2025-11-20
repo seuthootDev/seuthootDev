@@ -18,7 +18,7 @@
         <div><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" /></div>
         <div><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /></div>
         <div><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /></div>
-        <div><img src="https://img.shields.io/badge/QML-41CD52?style=flat-square&logo=qt&logoColor=white" /></div>
+        <div><img src="https://img.shields.io/badge/QML-41CD52?style=flat&logo=qt&logoColor=white" /></div>
       </td>
       <td style="border: none;">
         <div><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" /></div>
