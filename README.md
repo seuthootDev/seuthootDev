@@ -44,7 +44,7 @@
 
 
 
-<!-- ![Seunghoon Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuthootDev&show_icons=true&theme=transparent) | ![Seunghoon Jung GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seuthootdev&layout=compact&langs_count=10) -->
+ ![Seunghoon Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuthootDev&show_icons=true&theme=transparent) | ![Seunghoon Jung GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seuthootdev&layout=compact&langs_count=10) 
 
 
 
