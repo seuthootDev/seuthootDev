@@ -1,4 +1,5 @@
-<h2>🛠️ Tech Stack</h2>
+###🛠️ Tech Stack
+
 <table style="border: none;">
   <thead>
     <tr>
