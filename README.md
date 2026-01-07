@@ -39,13 +39,6 @@
   </tbody>
 </table>
 
-
-| GitHub Stats | Top Languages |
-|-------------|---------------|
-| ![stats](https://github-readme-stats.vercel.app/api?username=seuthootDev&show_icons=true&theme=transparent) | ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuthootDev&layout=compact&langs_count=10) |
-
-
-
 ---------------------------------------------------------------------------------------------
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seuthootDev&utm_content=farm">
 <img
