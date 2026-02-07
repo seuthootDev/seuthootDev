@@ -40,7 +40,7 @@
 
 <br/>
 
-<p align="center">
+<p>
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seuthootDev&utm_content=farm">
     <img src="https://render.gitanimals.org/farms/seuthootDev" width="480" />
   </a>
