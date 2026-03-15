@@ -5,12 +5,10 @@ Developer interested in desktop applications, web systems, and engineering tools
 </p>
 <br/>
 
-<p align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seuthootDev&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/seuthootDev" width="480" />
-  </a>
-</p>
 
+<img src="https://github-grass-ascii-latest.onrender.com/svg?user=seuthootDev&theme=window" />
+
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/QML-41CD52?style=flat&logo=qt&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
@@ -29,7 +27,7 @@ Developer interested in desktop applications, web systems, and engineering tools
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_brown.svg" />
 </p>
 
-
+<br>
 <div align="center">
 
 ### 🔬 Currently Exploring
@@ -39,3 +37,11 @@ Developer interested in desktop applications, web systems, and engineering tools
  Open source contributions  </h5>
 
 </div>
+
+
+<br>
+<p align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seuthootDev&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/seuthootDev" width="480" />
+  </a>
+</p>
