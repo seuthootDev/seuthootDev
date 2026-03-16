@@ -6,7 +6,7 @@ Developer interested in desktop applications, web systems, and engineering tools
 <br/>
 
 
-<img src="https://github-grass-ascii-latest.onrender.com/svg?user=seuthootDev&theme=mac" />
+<img src="https://github-readme-insight-terminal-asci.vercel.app/svg?user=seuthootDev&theme=window" />
 
 <br>
 <p align="center">
