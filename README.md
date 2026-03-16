@@ -5,13 +5,6 @@ Developer interested in desktop applications, web systems, and engineering tools
 </p>
 <br/>
 
-
-<p align="center">
-  <img src="https://github-readme-insight-terminal-asci.vercel.app/svg?user=seuthootDev&theme=window&scale=0.58" />
-  <img src="https://github-readme-insight-terminal-asci.vercel.app/svg/stats?user=seuthootDev&theme=mac&scale=0.55" />
-  <img src="https://github-readme-insight-terminal-asci.vercel.app/svg/top-language?user=seuthootDev&theme=ubuntu&top=8&scale=0.55" />
-</p>
-
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/QML-41CD52?style=flat&logo=qt&logoColor=white" />
@@ -48,4 +41,10 @@ Developer interested in desktop applications, web systems, and engineering tools
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seuthootDev&utm_content=farm">
     <img src="https://render.gitanimals.org/farms/seuthootDev" width="480" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-insight-terminal-asci.vercel.app/svg?user=seuthootDev&theme=window&scale=0.8" />
+  <img src="https://github-readme-insight-terminal-asci.vercel.app/svg/stats?user=seuthootDev&theme=mac&scale=0.8" />
+  <img src="https://github-readme-insight-terminal-asci.vercel.app/svg/top-language?user=seuthootDev&theme=ubuntu&top=8&scale=0.8" />
 </p>
