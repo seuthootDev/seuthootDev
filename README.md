@@ -7,7 +7,7 @@ Developer interested in desktop applications, web systems, and engineering tools
 
 
 <p align="center">
-  <img src="https://github-readme-insight-terminal-asci.vercel.app/svg?user=seuthootDev&theme=window&scale=0.6" />
+  <img src="https://github-readme-insight-terminal-asci.vercel.app/svg?user=seuthootDev&theme=window&scale=0.55" />
   <img src="https://github-readme-insight-terminal-asci.vercel.app/svg/stats?user=seuthootDev&theme=mac&scale=0.55" />
   <img src="https://github-readme-insight-terminal-asci.vercel.app/svg/top-language?user=seuthootDev&theme=ubuntu&top=8&scale=0.55" />
 </p>
