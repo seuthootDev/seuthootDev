@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://github-readme-zodiac.vercel.app/api/card?username=seuthootDev&birthdate=1995-04-24" />
+  <img src="https://github-readme-chinese-zodiac.vercel.app/api/card?username=seuthootDev&birthdate=1995-04-24&v=2" />
 </p>
 
 <p align="center">
