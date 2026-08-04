@@ -1,6 +1,10 @@
 <h1 align="center">Seunghoon Jung</h1>
 
 <p align="center">
+  <img src="https://github-readme-zodiac.vercel.app/api/card?username=seuthootDev&birthdate=1995-04-24" />
+</p>
+
+<p align="center">
 Developer interested in desktop applications, web systems, and engineering tools
 </p>
 <br/>
@@ -41,10 +45,6 @@ Developer interested in desktop applications, web systems, and engineering tools
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seuthootDev&utm_content=farm">
     <img src="https://render.gitanimals.org/farms/seuthootDev" width="480" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-zodiac.vercel.app/api/card?username=seuthootDev&birthdate=1995-04-24" />
 </p>
 
 <!--
