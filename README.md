@@ -47,3 +47,7 @@ Developer interested in desktop applications, web systems, and engineering tools
     <img src="https://render.gitanimals.org/farms/seuthootDev" width="480" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://readme-x-cards.vercel.app/api/profile?user=Seuthoot" />
+</p>
