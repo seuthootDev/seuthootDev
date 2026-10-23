@@ -42,12 +42,21 @@ Developer interested in desktop applications, web systems, and engineering tools
 
 
 <br>
+
 <p align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seuthootDev&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/seuthootDev" width="480" />
-  </a>
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=seuthootDev&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/seuthootDev"
+  width="480"
+/>
+</a>
 </p>
+
 
 <p align="center">
   <img src="https://readme-x-cards.vercel.app/api/profile?theme=terminal&user=Seuthoot" />
 </p>
+
+
+
+
