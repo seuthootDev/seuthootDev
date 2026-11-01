@@ -57,6 +57,6 @@ Developer interested in desktop applications, web systems, and engineering tools
   <img src="https://readme-x-cards.vercel.app/api/profile?theme=terminal&user=Seuthoot" />
 </p>
 
-
+<br/>
 
 
