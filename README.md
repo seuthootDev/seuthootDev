@@ -1,15 +1,5 @@
 <h1 align="center">Seunghoon Jung</h1>
 
-<p align="center">
-  <img src="https://github-readme-zodiac.vercel.app/api/card?username=seuthootDev&birthdate=1995-04-24" />
-  <img src="https://github-readme-chinese-zodiac.vercel.app/api/card?username=seuthootDev&birthdate=1995-04-24&glow=1" />
-</p>
-
-<p align="center">
-Developer interested in desktop applications, web systems, and engineering tools
-</p>
-<br/>
-
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/QML-41CD52?style=flat&logo=qt&logoColor=white" />
