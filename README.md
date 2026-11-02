@@ -34,6 +34,17 @@ Developer interested in desktop applications, web systems, and engineering tools
 
 </div>
 
+<br>
+
+<div align="center">
+
+### 🛠️ Open Source
+
+ <h5><a href="https://github.com/seuthootDev/github-readme-insight-terminal-ascii">github-readme-insight-terminal-ascii</a> – Terminal-style ASCII SVG cards for GitHub profiles<br>
+ <a href="https://github.com/seuthootDev/terminal-shields">terminal-shields</a> – Terminal-style dynamic SVG badges for READMEs</h5>
+
+</div>
+
 
 <br>
 
