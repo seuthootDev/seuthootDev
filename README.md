@@ -1,5 +1,9 @@
 <h1 align="center">Seunghoon Jung</h1>
 
+<p align="center">
+Developer interested in desktop applications, web systems, and engineering tools
+</p>
+
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/QML-41CD52?style=flat&logo=qt&logoColor=white" />
