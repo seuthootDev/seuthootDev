@@ -1,0 +1,16 @@
+name: Update Chinese Zodiac Gist
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # daily, 00:00 UTC
+
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: seuthootDev/github-readme-chinese-zodiac@v1
+        with:
+          gh_token: ${{ secrets.GH_TOKEN }}
+          gist_id: 6d4d8e34f5d87731b74fe7e9d8f8066b # 🐷 Pig
+          birthdate: "1995-04-24"

@@ -1,0 +1,16 @@
+name: Update Zodiac Gist
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # daily, 00:00 UTC
+
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: seuthootDev/github-readme-zodiac@v1
+        with:
+          gh_token: ${{ secrets.GH_TOKEN }}
+          gist_id: 2f040809e8944e67b8d3ec78b81aaab1 # ♉ Taurus
+          birthdate: "1995-04-24"
